@@ -48,7 +48,7 @@
        trivial_numeric_casts,
        unused_extern_crates,
        unused_import_braces,
-       unused_qualifications,
+       //unused_qualifications,
        unused_results)]
 
 // Warning: The context module defines the
